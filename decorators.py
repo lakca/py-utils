@@ -60,9 +60,10 @@ def chainable(fn):
 
 
 def overload(*overloadings):
-    '''an alternative to overload，for neat code structure.
-        - `origin`: original function (name) or method (name), just for name wrapping.
+    '''An alternative to overload，for neat code structure. (More examples to see ./access.py)
+
         # Example
+
         ```
         def demoStr(a: str): return 'str'
         def demoInt(a: int): return 'int'

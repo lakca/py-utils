@@ -8,4 +8,12 @@ Some python utils just for handy.
 - `chainable`
 - `overload`
 
+## Access
+
+- `set_index`
+- `index_of`
+
+## Convertor
+- `tyr_real`
+
 ## linked-list
